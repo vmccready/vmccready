@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/vmccready/" target="_blank">
-    <img src="https://img.shields.io/badge/-ANDREW%20NICHOLLS-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VINSON%20MCCREADY-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   
 <!-- Email -->
